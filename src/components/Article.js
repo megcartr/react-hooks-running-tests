@@ -8,4 +8,6 @@ function Article() {
   );
 }
 
+screen.debug();
+
 export default Article;
